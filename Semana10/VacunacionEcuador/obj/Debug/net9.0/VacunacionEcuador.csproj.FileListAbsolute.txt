@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\bin\Debug\net9.0\VacunacionEcuador.exe
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\bin\Debug\net9.0\VacunacionEcuador.deps.json
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\bin\Debug\net9.0\VacunacionEcuador.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\bin\Debug\net9.0\VacunacionEcuador.dll
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\bin\Debug\net9.0\VacunacionEcuador.pdb
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.dll
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\refint\VacunacionEcuador.dll
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.pdb
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\VacunacionEcuador.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\Semana10\VacunacionEcuador\obj\Debug\net9.0\ref\VacunacionEcuador.dll
