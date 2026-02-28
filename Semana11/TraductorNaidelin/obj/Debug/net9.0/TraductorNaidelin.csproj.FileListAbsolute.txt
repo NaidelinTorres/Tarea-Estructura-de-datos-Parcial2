@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\bin\Debug\net9.0\TraductorNaidelin.exe
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\bin\Debug\net9.0\TraductorNaidelin.deps.json
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\bin\Debug\net9.0\TraductorNaidelin.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\bin\Debug\net9.0\TraductorNaidelin.dll
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\bin\Debug\net9.0\TraductorNaidelin.pdb
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.dll
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\refint\TraductorNaidelin.dll
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.pdb
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\TraductorNaidelin.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\Semana11\TraductorNaidelin\obj\Debug\net9.0\ref\TraductorNaidelin.dll
