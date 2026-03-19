@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\bin\Debug\net9.0\BST_Proyecto.exe
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\bin\Debug\net9.0\BST_Proyecto.deps.json
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\bin\Debug\net9.0\BST_Proyecto.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\bin\Debug\net9.0\BST_Proyecto.dll
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\bin\Debug\net9.0\BST_Proyecto.pdb
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.dll
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\refint\BST_Proyecto.dll
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.pdb
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\BST_Proyecto.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\Semana14\BST_Proyecto\obj\Debug\net9.0\ref\BST_Proyecto.dll
